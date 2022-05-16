@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Riddle/static/css/main.45f2b1be.css",
+    "main.js": "/Riddle/static/js/main.8c4c8b9f.js",
+    "static/media/emergebg.jpg": "/Riddle/static/media/emergebg.9e3d4f6e5174ea9f9457.jpg",
+    "static/media/CIVISTAbg.jpg": "/Riddle/static/media/CIVISTAbg.ee2cc23a3898b58881bd.jpg",
+    "static/media/MECHAURAbg.jpg": "/Riddle/static/media/MECHAURAbg.01dfebfd57fbf1632359.jpg",
+    "static/media/RADIANCEbg.jpg": "/Riddle/static/media/RADIANCEbg.a8f4f3606be4c880d876.jpg",
+    "index.html": "/Riddle/index.html",
+    "main.45f2b1be.css.map": "/Riddle/static/css/main.45f2b1be.css.map",
+    "main.8c4c8b9f.js.map": "/Riddle/static/js/main.8c4c8b9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45f2b1be.css",
+    "static/js/main.8c4c8b9f.js"
+  ]
+}
